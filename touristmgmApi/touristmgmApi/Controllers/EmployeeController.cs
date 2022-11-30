@@ -24,7 +24,7 @@ namespace touristmgmApi.Controllers
             _itb = itb;
             _logger = logger;
             Profiles = new List<AddBranchModel>();
-            Profiles.Add(new AddBranchModel() { BranchName = "Andaman",  Contact = "9923412345", EmailId = "eamil@gmail.com" });
+            Profiles.Add(new AddBranchModel() { BranchName = "Andaman",  Contact = "9923412345", EmailId = "amarnathnn@gmail.com" });
             Profiles.Add(new AddBranchModel() { BranchName = "Singapore", Contact = "9923412345", EmailId = "fmamil@gmail.com" });
         }
 

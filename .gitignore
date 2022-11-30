@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/touristmgmApi/touristmgmApi/obj
+/touristmgmApi/touristmgmApi.BusinessLayer/obj
+/touristmgmApi/touristmgmApi.DataModel/obj
+/touristmgmApi/touristmgmApi.Repository/obj
